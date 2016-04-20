@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <string.h>
 void main()
-{ char Name[50], G[5], answer[10];
+{ char Name[75], G[5], answer[10];
   int i;
   do
   {
-    printf("What is your name? ");
+    printf("What is Your Name? ");
     scanf("%s", Name);
     do
     {
